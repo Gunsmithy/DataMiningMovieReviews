@@ -1,0 +1,5 @@
+nltk
+BeautifulSoup4
+scipy
+scikit-learn
+pandas
